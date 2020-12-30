@@ -5,11 +5,13 @@ repo: upptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: tiarebalbi.com
-    url: https://www.tiarebalbi.com
+    url: https://tiarebalbi.com
   - name: Quaer
     url: https://quaer.cloud
   - name: Grupo Fortaleza
     url: https://grupofortalezaserv.com
+  - name: Intranet
+    url: https://intranet.grupofortalezaserv.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -26,5 +28,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+assignees: # Users to assign downtime issues (optional)
+  - tiarebalbi
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
