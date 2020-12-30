@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.tiarebalbi.com",
     "slug": "tiarebalbi-com",
     "status": "down",
-    "uptime": "5.61%",
-    "uptimeDay": "5.61%",
-    "uptimeWeek": "5.61%",
-    "uptimeMonth": "5.61%",
-    "uptimeYear": "5.61%",
+    "uptime": "37.63%",
+    "uptimeDay": "37.63%",
+    "uptimeWeek": "37.63%",
+    "uptimeMonth": "37.63%",
+    "uptimeYear": "37.63%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-30": 0
+      "2020-12-30": 7
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 872,
-    "timeDay": 872,
-    "timeWeek": 872,
-    "timeMonth": 872,
-    "timeYear": 872,
+    "time": 408,
+    "timeDay": 408,
+    "timeWeek": 408,
+    "timeMonth": 408,
+    "timeYear": 408,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 105,
-    "timeDay": 105,
-    "timeWeek": 105,
-    "timeMonth": 105,
-    "timeYear": 105,
+    "time": 100,
+    "timeDay": 100,
+    "timeWeek": 100,
+    "timeMonth": 100,
+    "timeYear": 100,
     "dailyMinutesDown": {}
   }
 ]
