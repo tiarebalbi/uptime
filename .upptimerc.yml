@@ -12,7 +12,11 @@ sites:
     url: https://grupofortalezaserv.com
   - name: Intranet
     url: https://intranet.grupofortalezaserv.com
-
+  - name: Tropikos
+    url: https://tropikos.com.br
+  - name: GP - Intranet 2
+    url: https://financeiro.grupofortalezaserv.com
+    
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: uptime.tiarebalbi.com
