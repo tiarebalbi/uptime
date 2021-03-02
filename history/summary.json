@@ -4,9 +4,9 @@
     "url": "https://tiarebalbi.com",
     "icon": "https://favicons.githubusercontent.com/tiarebalbi.com",
     "slug": "tiarebalbi-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1344,
     "timeMonth": 991,
     "timeYear": 527,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-02": 0
+    }
   },
   {
     "name": "Quaer",
@@ -95,11 +97,11 @@
     "icon": "https://favicons.githubusercontent.com/financeiro.grupofortalezaserv.com",
     "slug": "gp-intranet-2",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.38%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.40%",
     "time": 636,
     "timeDay": 531,
     "timeWeek": 577,
